@@ -1,0 +1,25 @@
+{
+  "name": "down-images",
+  "version": "0.0.2",
+  "description": "download image",
+  "main": "bin/index.js",
+  "scripts": {
+    "start": "npx tsc"
+  },
+  "keywords": [
+    "download",
+    "image",
+    "download image",
+    "a download"
+  ],
+  "author": "huhu",
+  "repository": {
+    "type": "nodejs",
+    "url": "https://github.com/bWhirring/down-images.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.5.2",
+    "typescript": "^2.9.2"
+  }
+}
