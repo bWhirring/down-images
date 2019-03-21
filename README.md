@@ -13,7 +13,7 @@ Usage
 ```
 import * as Download from "down-images";
 
-const download = new Download(width, height);
+const download = new Download();
 
 download.image(url, name);
 ```
